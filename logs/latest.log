@@ -1,88 +1,23 @@
-[00:00:04] [Server thread/INFO]: CYBORG801[/49.43.42.4:54079] logged in with entity id 2 at (-994.385820347003, 64.0, -1822.830273542501)
-[00:00:04] [Server thread/INFO]: CYBORG801 joined the game
-[00:00:54] [Server thread/INFO]: QuerkyWink[/182.64.87.107:50801] logged in with entity id 366 at (-915.4314723005614, 70.0, -1782.1788237355674)
-[00:00:54] [Server thread/INFO]: QuerkyWink joined the game
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.283434589375247
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.3156942950051871
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.3447280293030417
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.3708583894788262
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.3943757130141421
-[00:01:52] [Server thread/WARN]: Boat (vehicle of CYBORG801) moved wrongly! 0.4155413036351092
-[00:04:19] [Server thread/INFO]: Pranshu_69[/49.43.43.249:51066] logged in with entity id 1302 at (-992.9792588189621, 63.5625, -1731.0332354792927)
-[00:04:19] [Server thread/INFO]: Pranshu_69 joined the game
-[00:05:55] [Server thread/INFO]: Pranshu_69 has made the advancement [What a Deal!]
-[00:09:07] [Server thread/INFO]: Kovid63[/127.0.0.1:51205] logged in with entity id 2823 at (-997.5559462505961, 66.0, -1733.5526101154078)
-[00:09:07] [Server thread/INFO]: Kovid63 joined the game
-[00:10:43] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[00:10:43] [Server thread/INFO]: Pranshu_69 left the game
-[00:12:42] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[00:12:42] [Server thread/INFO]: QuerkyWink left the game
-[00:12:51] [Server thread/INFO]: QuerkyWink[/182.64.87.107:50825] logged in with entity id 4031 at (-841.4216764395974, 68.0, -1829.9794371883672)
-[00:12:51] [Server thread/INFO]: QuerkyWink joined the game
-[00:13:08] [Server thread/INFO]: Pranshu_69[/49.43.43.249:51095] logged in with entity id 4186 at (-1007.7800315472739, 71.0, -1617.9249220409954)
-[00:13:08] [Server thread/INFO]: Pranshu_69 joined the game
-[00:18:58] [Server thread/INFO]: Teleported Kovid63 to QuerkyWink
-[00:18:58] [Server thread/WARN]: Kovid63 moved too quickly! 104.90674702985507,4.0,38.615291346129425
-[00:18:58] [Server thread/WARN]: Kovid63 moved too quickly! 104.90674702985507,4.0,38.615291346129425
-[00:20:01] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[00:20:01] [Server thread/INFO]: Pranshu_69 left the game
-[00:20:59] [Server thread/INFO]: Unknown item 'minecraft:sheep_egg'
-[00:20:59] [Server thread/INFO]: ...e Kovid63 minecraft:sheep_egg 10<--[HERE]
-[00:22:11] [Server thread/INFO]: Gave 10 [Sheep Spawn Egg] to Kovid63
-[00:24:34] [Server thread/INFO]: Gave 1 [Furnace] to Kovid63
-[00:24:37] [Server thread/INFO]: Pranshu_69[/49.43.43.249:51133] logged in with entity id 7264 at (-996.6199645134541, 63.0, -1737.2509034025315)
-[00:24:37] [Server thread/INFO]: Pranshu_69 joined the game
-[00:24:44] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[00:24:44] [Server thread/INFO]: ...aft:coal 1e 1<--[HERE]
-[00:24:48] [Server thread/INFO]: Gave 1 [Coal] to Kovid63
-[00:24:54] [Server thread/INFO]: Gave 63 [Coal] to Kovid63
-[00:25:25] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[00:25:25] [Server thread/INFO]: Pranshu_69 left the game
-[00:25:29] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[00:25:29] [Server thread/INFO]: CYBORG801 left the game
-[00:25:30] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[00:25:30] [Server thread/INFO]: Kovid63 left the game
-[00:25:42] [Server thread/INFO]: Kovid63[/127.0.0.1:52121] logged in with entity id 7531 at (-1023.9791752022799, 64.0, -1821.1181444604506)
-[00:25:42] [Server thread/INFO]: Kovid63 joined the game
-[00:25:43] [Server thread/INFO]: CYBORG801[/49.43.42.4:55211] logged in with entity id 7544 at (-990.8888050697155, 68.0, -1772.4647162383174)
-[00:25:43] [Server thread/INFO]: CYBORG801 joined the game
-[00:26:13] [Server thread/INFO]: Pranshu_69[/49.43.43.249:51199] logged in with entity id 7715 at (-1108.6464690396888, 69.0, -1817.9626777734104)
-[00:26:13] [Server thread/INFO]: Pranshu_69 joined the game
-[00:27:26] [Server thread/INFO]: Unknown item 'minecraft:oak_sign_board'
-[00:27:26] [Server thread/INFO]: ...e Kovid63 minecraft:oak_sign_board 1<--[HERE]
-[00:28:04] [Server thread/INFO]: Gave 1 [Oak Sign] to Kovid63
-[00:31:57] [Server thread/INFO]: Gave 1 [Redstone Torch] to Kovid63
-[00:32:43] [Server thread/INFO]: Gave 1 [Lever] to Kovid63
-[00:34:46] [Server thread/INFO]: Gave 30 [Cobblestone] to Kovid63
-[00:36:42] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[00:36:47] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[00:36:47] [Server thread/INFO]: Pranshu_69 left the game
-[00:36:50] [Server thread/INFO]: Gave 1 [Lever] to Kovid63
-[00:36:51] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[00:36:52] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[00:36:53] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[00:36:57] [Server thread/INFO]: [Not Secure] <QuerkyWink> disconnect
-[00:37:05] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[00:37:05] [Server thread/INFO]: CYBORG801 left the game
-[00:37:09] [Server thread/INFO]: CYBORG801[/49.43.42.4:55638] logged in with entity id 10515 at (-994.2150203722097, 64.0, -1821.8076777352833)
-[00:37:09] [Server thread/INFO]: CYBORG801 joined the game
-[00:37:42] [Server thread/INFO]: Pranshu_69[/49.43.43.249:51258] logged in with entity id 10657 at (-978.3253658204299, 63.0, -1742.9135619225347)
-[00:37:42] [Server thread/INFO]: Pranshu_69 joined the game
-[00:42:38] [Server thread/INFO]: Gave 10 [Hopper] to Kovid63
-[00:42:50] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[00:42:50] [Server thread/INFO]: Pranshu_69 left the game
-[00:43:00] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[00:43:00] [Server thread/INFO]: QuerkyWink left the game
-[00:44:09] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[00:44:09] [Server thread/INFO]: Kovid63 left the game
-[00:44:18] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[00:44:18] [Server thread/INFO]: CYBORG801 left the game
-[00:44:47] [Server thread/INFO]: No player was found
-[00:44:52] [Server thread/INFO]: Kovid63[/127.0.0.1:53199] logged in with entity id 12261 at (-1025.06076567167, 64.0, -1815.5948324659446)
-[00:44:52] [Server thread/INFO]: Kovid63 joined the game
-[00:44:55] [Server thread/INFO]: Gave 25 [Sheep Spawn Egg] to Kovid63
-[00:45:42] [Server thread/INFO]: Gave 25 [Sheep Spawn Egg] to Kovid63
-[00:48:46] [Server thread/INFO]: Gave 1 [Glass] to Kovid63
-[00:49:06] [Server thread/INFO]: Gave 1 [Glass] to Kovid63
-[00:50:55] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[00:50:55] [Server thread/INFO]: Kovid63 left the game
+[00:29:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:29:54] [ServerMain/INFO]: Loaded 7 recipes
+[00:29:54] [ServerMain/INFO]: Loaded 1179 advancements
+[00:29:55] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[00:29:55] [Server thread/INFO]: Loading properties
+[00:29:55] [Server thread/INFO]: Default game type: SURVIVAL
+[00:29:55] [Server thread/INFO]: Generating keypair
+[00:29:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:29:55] [Server thread/INFO]: Using default channel type
+[00:29:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:29:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:29:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:29:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:29:55] [Server thread/INFO]: Preparing level "world"
+[00:29:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:29:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:29:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:29:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:29:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:29:58] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:29:58] [Worker-Main-7/INFO]: Preparing spawn area: 46%
+[00:29:58] [Server thread/INFO]: Time elapsed: 2724 ms
+[00:29:58] [Server thread/INFO]: Done (3.538s)! For help, type "help"
