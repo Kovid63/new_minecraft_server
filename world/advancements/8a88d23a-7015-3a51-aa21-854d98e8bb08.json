@@ -818,7 +818,8 @@
       "minecraft:piglin": "2023-04-22 02:03:50 +0530",
       "minecraft:enderman": "2023-04-22 03:09:37 +0530",
       "minecraft:zombie": "2023-04-20 23:00:29 +0530",
-      "minecraft:drowned": "2023-04-22 03:05:38 +0530"
+      "minecraft:drowned": "2023-04-22 03:05:38 +0530",
+      "minecraft:zombie_villager": "2023-04-30 23:10:08 +0530"
     },
     "done": false
   },
@@ -2127,6 +2128,18 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2023-04-25 22:56:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-04-30 23:17:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-04-30 23:17:42 +0530"
     },
     "done": true
   },

@@ -101,6 +101,7 @@
       "apple": "2023-04-26 01:04:22 +0530",
       "potato": "2023-04-20 20:59:49 +0530",
       "cooked_cod": "2023-04-22 01:03:54 +0530",
+      "mutton": "2023-04-30 23:39:42 +0530",
       "bread": "2023-04-20 18:25:25 +0530",
       "golden_apple": "2023-04-23 02:56:40 +0530",
       "beetroot": "2023-04-20 19:41:32 +0530",
@@ -2730,6 +2731,42 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2023-04-27 23:58:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-04-30 21:50:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-04-30 22:34:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2023-04-30 23:37:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:45 +0530"
     },
     "done": true
   },

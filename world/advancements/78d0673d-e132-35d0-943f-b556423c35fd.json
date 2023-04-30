@@ -382,6 +382,7 @@
       "apple": "2023-04-24 00:57:18 +0530",
       "potato": "2023-04-22 01:28:31 +0530",
       "poisonous_potato": "2023-04-22 02:33:59 +0530",
+      "mutton": "2023-04-30 22:23:49 +0530",
       "bread": "2023-04-20 18:17:40 +0530",
       "rotten_flesh": "2023-04-20 20:42:05 +0530",
       "beetroot": "2023-04-24 00:58:46 +0530",
@@ -1536,7 +1537,8 @@
       "minecraft:pillager": "2023-04-22 02:58:04 +0530",
       "minecraft:skeleton": "2023-04-20 20:21:37 +0530",
       "minecraft:piglin": "2023-04-26 00:53:03 +0530",
-      "minecraft:zombie": "2023-04-22 02:04:13 +0530"
+      "minecraft:zombie": "2023-04-22 02:04:13 +0530",
+      "minecraft:drowned": "2023-04-30 22:48:30 +0530"
     },
     "done": false
   },
@@ -2704,12 +2706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2023-04-26 01:27:00 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-26 01:22:57 +0530"
@@ -2734,12 +2730,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2023-04-26 01:27:00 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-26 01:22:57 +0530"
@@ -2749,6 +2739,36 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2023-04-26 01:22:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-04-26 01:27:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-04-26 01:27:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:43 +0530"
     },
     "done": true
   },
