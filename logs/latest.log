@@ -1,300 +1,49 @@
-[21:08:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:08:55] [ServerMain/INFO]: Loaded 7 recipes
-[21:08:55] [ServerMain/INFO]: Loaded 1179 advancements
-[21:08:55] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[21:08:55] [Server thread/INFO]: Loading properties
-[21:08:55] [Server thread/INFO]: Default game type: SURVIVAL
-[21:08:55] [Server thread/INFO]: Generating keypair
-[21:08:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:08:56] [Server thread/INFO]: Using default channel type
-[21:08:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:08:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:08:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:08:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:08:56] [Server thread/INFO]: Preparing level "world"
-[21:08:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:08:58] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:08:59] [Worker-Main-10/INFO]: Preparing spawn area: 74%
-[21:08:59] [Server thread/INFO]: Time elapsed: 2592 ms
-[21:08:59] [Server thread/INFO]: Done (3.390s)! For help, type "help"
-[21:11:18] [Server thread/INFO]: Kovid63[/127.0.0.1:51359] logged in with entity id 8 at (-1029.196848417764, 66.0, -1793.3861023983288)
-[21:11:18] [Server thread/INFO]: Kovid63 joined the game
-[21:22:52] [Server thread/INFO]: QuerkyWink[/171.48.41.32:50910] logged in with entity id 1753 at (-1043.5653462427383, 67.0, -1781.3285988569066)
-[21:22:52] [Server thread/INFO]: QuerkyWink joined the game
-[21:23:02] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[21:23:02] [Server thread/INFO]: QuerkyWink left the game
-[21:23:06] [Server thread/INFO]: QuerkyWink[/171.48.41.32:50915] logged in with entity id 1794 at (-1042.3318817710622, 67.0, -1780.9609362175672)
-[21:23:06] [Server thread/INFO]: QuerkyWink joined the game
-[21:30:56] [Server thread/INFO]: Gave 25 [Hopper] to Kovid63
-[21:31:16] [Server thread/INFO]: Gave 255 [Dirt] to Kovid63
-[21:31:57] [Server thread/INFO]: Made Kovid63 a server operator
-[21:32:15] [Server thread/INFO]: [Kovid63: Set own game mode to Creative Mode]
-[21:34:29] [Server thread/INFO]: CYBORG801[/49.43.40.38:55252] logged in with entity id 4210 at (-919.2533149422668, 71.0, -1762.5043548859041)
-[21:34:29] [Server thread/INFO]: CYBORG801 joined the game
-[21:34:46] [Server thread/INFO]: [Kovid63: Set own game mode to Survival Mode]
-[21:34:51] [Server thread/INFO]: [Not Secure] <CYBORG801> kovid
-[21:34:57] [Server thread/INFO]: [Not Secure] <Kovid63> yes
-[21:35:05] [Server thread/INFO]: [Not Secure] <CYBORG801> zip file dalni h ya extracted
-[21:35:15] [Server thread/INFO]: [Not Secure] <Kovid63> zip file hi
-[21:37:30] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[21:37:30] [Server thread/INFO]: CYBORG801 left the game
-[21:37:43] [Server thread/INFO]: Kovid63 was shot by Skeleton
-[21:38:28] [Server thread/INFO]: CYBORG801[/49.43.40.38:55389] logged in with entity id 5437 at (-1073.4045329656276, 68.0, -1811.515054950047)
-[21:38:28] [Server thread/INFO]: CYBORG801 joined the game
-[21:41:51] [Server thread/INFO]: Made Kovid63 no longer a server operator
-[21:42:01] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[21:42:01] [Server thread/INFO]: CYBORG801 left the game
-[21:42:37] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[21:42:37] [Server thread/INFO]: QuerkyWink left the game
-[21:42:57] [Server thread/INFO]: QuerkyWink[/171.48.41.32:51007] logged in with entity id 6558 at (-1158.5616237488066, -58.0, -1841.3158962021987)
-[21:42:57] [Server thread/INFO]: QuerkyWink joined the game
-[21:44:45] [Server thread/INFO]: CYBORG801[/49.43.40.38:55618] logged in with entity id 7092 at (-1038.9648852985852, 67.0, -1795.862609091895)
-[21:44:45] [Server thread/INFO]: CYBORG801 joined the game
-[21:46:58] [Server thread/INFO]: Unknown item 'minecraft:'
-[21:46:58] [Server thread/INFO]: ...e kovid63 minecraft: comparator 1<--[HERE]
-[21:47:02] [Server thread/INFO]: Gave 1 [Redstone Comparator] to Kovid63
-[21:47:53] [Server thread/INFO]: Gave 1 [Iron Pickaxe] to Kovid63
-[21:50:34] [Server thread/INFO]: Gave 1 [Anvil] to Kovid63
-[21:51:22] [Server thread/INFO]: Unknown item 'minecraft:xp'
-[21:51:22] [Server thread/INFO]: ...e kovid63 minecraft:xp 10<--[HERE]
-[21:52:40] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51240] logged in with entity id 8904 at (-1028.4838567015233, 62.5, -1523.7460071722185)
-[21:52:40] [Server thread/INFO]: Pranshu_69 joined the game
-[21:54:19] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[21:54:19] [Server thread/INFO]: Pranshu_69 left the game
-[21:54:34] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[21:54:42] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51251] logged in with entity id 10054 at (-1159.7014879217559, 70.0, -1534.2219470925206)
-[21:54:42] [Server thread/INFO]: Pranshu_69 joined the game
-[21:54:45] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[21:54:45] [Server thread/INFO]: Pranshu_69 left the game
-[21:54:52] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[21:54:59] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51255] logged in with entity id 10339 at (-1159.7014879217559, 70.0, -1534.2219470925206)
-[21:54:59] [Server thread/INFO]: Pranshu_69 joined the game
-[21:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-1157, y=72, z=-1529} gt{x=-1157, y=72, z=-1528}
-[21:55:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-1177, y=69, z=-1530} gt{x=-1179, y=68, z=-1532}
-[21:57:00] [Server thread/INFO]: Gave 1 [Pillager Spawn Egg] to Pranshu_69
-[21:57:06] [Server thread/INFO]: Gave 10 [Pillager Spawn Egg] to Pranshu_69
-[21:57:46] [Server thread/INFO]: Gave 53 [Pillager Spawn Egg] to Pranshu_69
-[21:57:56] [Server thread/INFO]: Gave 1 [Anvil] to Kovid63
-[21:58:10] [Server thread/INFO]: Incorrect argument for command
-[21:58:10] [Server thread/INFO]: xp kovid63 100<--[HERE]
-[21:58:34] [Server thread/INFO]: Incorrect argument for command
-[21:58:34] [Server thread/INFO]: xp 100 kovid63<--[HERE]
-[21:58:39] [Server thread/INFO]: Expected integer
-[21:58:39] [Server thread/INFO]: ...p add 100 kovid63<--[HERE]
-[21:59:23] [Server thread/INFO]: Gave 100 experience points to Kovid63
-[22:01:40] [Server thread/INFO]: QuerkyWink has made the advancement [Not Today, Thank You]
-[22:05:34] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[22:05:34] [Server thread/INFO]: QuerkyWink left the game
-[22:05:51] [Server thread/INFO]: QuerkyWink[/171.48.41.32:51219] logged in with entity id 15727 at (-1081.3945627932499, -39.0, -1839.2812054301037)
-[22:05:51] [Server thread/INFO]: QuerkyWink joined the game
-[22:05:53] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[22:05:53] [Server thread/INFO]: Pranshu_69 left the game
-[22:05:56] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[22:05:56] [Server thread/INFO]: QuerkyWink left the game
-[22:06:17] [Server thread/INFO]: [Not Secure] <Kovid63> CYBORG801
-[22:06:33] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51314] logged in with entity id 15836 at (-1028.300000011921, 65.0, -1528.5372109121577)
-[22:06:33] [Server thread/INFO]: Pranshu_69 joined the game
-[22:06:35] [Server thread/INFO]: QuerkyWink[/171.48.41.32:51281] logged in with entity id 16018 at (-1081.3945627932499, -39.0, -1839.2812054301037)
-[22:06:35] [Server thread/INFO]: QuerkyWink joined the game
-[22:06:36] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[22:06:36] [Server thread/INFO]: Pranshu_69 left the game
-[22:06:38] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[22:06:38] [Server thread/INFO]: QuerkyWink left the game
-[22:06:41] [Server thread/INFO]: QuerkyWink[/171.48.41.32:51284] logged in with entity id 16067 at (-1081.3945627932499, -39.0, -1839.2812054301037)
-[22:06:41] [Server thread/INFO]: QuerkyWink joined the game
-[22:06:41] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51316] logged in with entity id 16094 at (-1028.4134307143624, 65.0, -1528.4860985682956)
-[22:06:41] [Server thread/INFO]: Pranshu_69 joined the game
-[22:13:37] [Server thread/INFO]: Gave 30 [Chest] to Kovid63
-[22:19:19] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[22:19:19] [Server thread/INFO]: Kovid63 left the game
-[22:19:55] [Server thread/INFO]: Kovid63[/127.0.0.1:54504] logged in with entity id 20042 at (-1072.6825673731823, 66.5753455594904, -1811.6357466257364)
-[22:19:55] [Server thread/INFO]: Kovid63 joined the game
-[22:20:37] [Server thread/INFO]: Gave 25 [Hopper] to Kovid63
-[22:24:21] [Server thread/INFO]: Gave 1 [Dispenser] to Kovid63
-[22:24:34] [Server thread/INFO]: Gave 1 [Redstone Repeater] to Kovid63
-[22:26:23] [Server thread/INFO]: Gave 1 [Redstone Repeater] to Kovid63
-[22:26:51] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[22:26:51] [Server thread/INFO]: QuerkyWink left the game
-[22:32:30] [Server thread/INFO]: Kovid63 was slain by Pranshu_69
-[22:34:08] [Server thread/INFO]: CYBORG801 has made the advancement [Enchanter]
-[22:34:17] [Server thread/INFO]: Gave 1 [Redstone Comparator] to Kovid63
-[22:37:22] [Server thread/INFO]: QuerkyWink[/171.48.41.32:53697] logged in with entity id 23893 at (-999.1399022136206, 65.875, -1796.3587480293909)
-[22:37:22] [Server thread/INFO]: QuerkyWink joined the game
-[22:44:50] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[22:44:50] [Server thread/INFO]: QuerkyWink left the game
-[22:44:56] [Server thread/INFO]: QuerkyWink[/171.48.41.32:53032] logged in with entity id 26850 at (-1134.9710393959529, -40.0, -1841.0210481505685)
-[22:44:56] [Server thread/INFO]: QuerkyWink joined the game
-[22:45:10] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[22:45:10] [Server thread/INFO]: Kovid63 left the game
-[22:45:17] [Server thread/INFO]: Kovid63[/127.0.0.1:55455] logged in with entity id 27083 at (-1005.4341986058149, 72.0, -1621.0124744081415)
-[22:45:17] [Server thread/INFO]: Kovid63 joined the game
-[22:47:30] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[22:47:30] [Server thread/INFO]: Pranshu_69 left the game
-[22:51:04] [Server thread/INFO]: Kovid63 drowned
-[22:55:09] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51534] logged in with entity id 30746 at (-1002.0024954154891, 63.0, -1753.2388260187568)
-[22:55:09] [Server thread/INFO]: Pranshu_69 joined the game
-[22:56:10] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[22:56:10] [Server thread/INFO]: CYBORG801 left the game
-[22:56:48] [Server thread/INFO]: Kovid63 fell off a ladder
-[22:57:04] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[22:57:04] [Server thread/INFO]: Pranshu_69 left the game
-[22:57:06] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[22:57:15] [Server thread/INFO]: Pranshu_69[/49.43.40.190:51548] logged in with entity id 31560 at (-1005.7011866481834, 71.0, -1619.6797721613307)
-[22:57:15] [Server thread/INFO]: Pranshu_69 joined the game
-[22:58:31] [Server thread/INFO]: CYBORG801[/49.43.40.38:57223] logged in with entity id 32230 at (-990.385168197178, 66.0, -1727.1147779334342)
-[22:58:31] [Server thread/INFO]: CYBORG801 joined the game
-[23:02:36] [Server thread/INFO]: Gave 1 [Redstone Torch] to Kovid63
-[23:03:03] [Server thread/INFO]: Gave 1 [Redstone Torch] to Kovid63
-[23:06:44] [Server thread/INFO]: Gave 255 [Dirt] to Kovid63
-[23:06:57] [Server thread/INFO]: Pranshu_69 lost connection: Disconnected
-[23:06:57] [Server thread/INFO]: Pranshu_69 left the game
-[23:07:11] [Server thread/INFO]: Incorrect argument for command
-[23:07:11] [Server thread/INFO]: xp kovid63 100<--[HERE]
-[23:07:15] [Server thread/INFO]: Expected integer
-[23:07:15] [Server thread/INFO]: ...p add 100 kovid63<--[HERE]
-[23:07:23] [Server thread/INFO]: Expected integer
-[23:07:23] [Server thread/INFO]: ...p add 100 kovid63<--[HERE]
-[23:07:33] [Server thread/INFO]: Gave 100 experience points to Kovid63
-[23:08:28] [Server thread/INFO]: Miyamura__09[/115.241.201.77:47171] logged in with entity id 36010 at (-997.8371584309104, 63.0, -1730.047386852096)
-[23:08:28] [Server thread/INFO]: Miyamura__09 joined the game
-[23:08:37] [Server thread/INFO]: [Not Secure] <Miyamura__09> hola btches
-[23:08:48] [Server thread/INFO]: [Not Secure] <QuerkyWink> ghar jayngaa
-[23:09:05] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[23:09:09] [Server thread/INFO]: [Not Secure] <QuerkyWink> disconnect
-[23:09:10] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[23:09:13] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:09:13] [Server thread/INFO]: CYBORG801 left the game
-[23:09:17] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[23:09:18] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[23:09:24] [Server thread/INFO]: [Not Secure] <QuerkyWink> Miyamura__09
-[23:09:27] [Server thread/INFO]: CYBORG801[/49.43.40.38:57463] logged in with entity id 36228 at (-1028.7841588498661, 65.0, -1811.8940054278278)
-[23:09:27] [Server thread/INFO]: CYBORG801 joined the game
-[23:09:32] [Server thread/INFO]: [Not Secure] <QuerkyWink> sojao
-[23:09:35] [Server thread/INFO]: [Not Secure] <Miyamura__09> so hi rha hun
-[23:09:37] [Server thread/INFO]: [Not Secure] <Miyamura__09> leta hun mai
-[23:09:37] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[23:09:37] [Server thread/INFO]: Kovid63 left the game
-[23:09:50] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:09:50] [Server thread/INFO]: CYBORG801 left the game
-[23:10:00] [Server thread/INFO]: CYBORG801[/49.43.40.38:57482] logged in with entity id 36405 at (-994.9222433643324, 63.0, -1740.8569922779711)
-[23:10:00] [Server thread/INFO]: CYBORG801 joined the game
-[23:10:07] [Server thread/INFO]: [Not Secure] <CYBORG801> kirito?
-[23:10:11] [Server thread/INFO]: Kovid63[/127.0.0.1:56334] logged in with entity id 36476 at (-1076.9284492961258, 68.0, -1814.822587039483)
-[23:10:11] [Server thread/INFO]: Kovid63 joined the game
-[23:10:15] [Server thread/INFO]: [Not Secure] <Miyamura__09> bol?
-[23:10:19] [Server thread/INFO]: [Not Secure] <CYBORG801> kawach 2k23 mai part liya h
-[23:10:25] [Server thread/INFO]: [Not Secure] <Miyamura__09> nhi
-[23:10:29] [Server thread/INFO]: [Not Secure] <CYBORG801> ok
-[23:10:32] [Server thread/INFO]: [Not Secure] <Miyamura__09> gamedev kya karega
-[23:10:39] [Server thread/INFO]: [Not Secure] <Miyamura__09> mereko tbh webdevs chahiye hoge
-[23:10:42] [Server thread/INFO]: [Not Secure] <Miyamura__09> backend ke liye
-[23:10:47] [Server thread/WARN]: Miyamura__09 moved too quickly! -4.131707268566515,-0.7491326388584127,-9.235917433712757
-[23:10:53] [Server thread/INFO]: [Not Secure] <CYBORG801> tu front end wala h?
-[23:10:57] [Server thread/INFO]: [Not Secure] <CYBORG801> Unity?
-[23:11:25] [Server thread/WARN]: QuerkyWink moved too quickly! -10.201962263716496,-1.757002463247808,-0.18723865673746332
-[23:11:27] [Server thread/INFO]: [Not Secure] <Miyamura__09> front end and unity
-[23:11:28] [Server thread/INFO]: [Not Secure] <CYBORG801> ??
-[23:11:29] [Server thread/INFO]: [Not Secure] <Miyamura__09> i can do
-[23:11:39] [Server thread/INFO]: [Not Secure] <Kovid63> valo khelega?
-[23:11:40] [Server thread/INFO]: [Not Secure] <Miyamura__09> but i cant do backend integration for the track prizes
-[23:11:43] [Server thread/INFO]: [Not Secure] <CYBORG801> ui design karlete ho tum?
-[23:11:47] [Server thread/INFO]: [Not Secure] <Kovid63> miya
-[23:11:48] [Server thread/INFO]: [Not Secure] <Miyamura__09> bol nhi paoonga
-[23:11:50] [Server thread/INFO]: [Not Secure] <Miyamura__09> khel lunga
-[23:11:55] [Server thread/INFO]: [Not Secure] <Kovid63> ok
-[23:11:59] [Server thread/INFO]: [Not Secure] <Miyamura__09> haan ui design toh bahut easy hai
-[23:12:21] [Server thread/INFO]: [Not Secure] <Miyamura__09> aise hi thodi na 20k mil rhe hai internship mein
-[23:12:22] [Server thread/INFO]: [Not Secure] <Miyamura__09> LMFAO
-[23:12:40] [Server thread/INFO]: [Not Secure] <CYBORG801> 20k per month h
-[23:12:44] [Server thread/INFO]: [Not Secure] <CYBORG801> ya total?
-[23:12:56] [Server thread/INFO]: [Not Secure] <Miyamura__09> per month
-[23:13:02] [Server thread/INFO]: [Not Secure] <Miyamura__09> 5k start of month
-[23:13:04] [Server thread/INFO]: [Not Secure] <Miyamura__09> 15k end of month
-[23:13:14] [Server thread/INFO]: [Not Secure] <Miyamura__09> it was 15k before
-[23:13:15] [Server thread/INFO]: No player was found
-[23:13:16] [Server thread/INFO]: [Not Secure] <Miyamura__09> got it upto 20k
-[23:13:23] [Server thread/INFO]: [Not Secure] <Miyamura__09> 5k increment each month if project goes wel
-[23:13:26] [Server thread/INFO]: Gave 200 [Glass] to Kovid63
-[23:13:38] [Server thread/INFO]: [Not Secure] <CYBORG801> name
-[23:13:41] [Server thread/INFO]: [Not Secure] <CYBORG801> of org
-[23:13:49] [Server thread/INFO]: [Not Secure] <CYBORG801> jisme kar rhe ho intern
-[23:13:49] [Server thread/INFO]: [Not Secure] <Miyamura__09> adaxon
-[23:14:38] [Server thread/INFO]: [Not Secure] <CYBORG801> anyone can apply?
-[23:14:46] [Server thread/INFO]: [Not Secure] <Miyamura__09> arey baat ye hai
-[23:14:55] [Server thread/INFO]: [Not Secure] <Miyamura__09> frontends and backends ko bas 5k - 10k mil rhe hai usme
-[23:14:57] [Server thread/INFO]: [Not Secure] <Miyamura__09> gamedev hun na
-[23:15:03] [Server thread/INFO]: [Not Secure] <Miyamura__09> toh woh zyada de rha
-[23:15:28] [Server thread/INFO]: Gave 255 [Dirt] to Kovid63
-[23:15:52] [Server thread/INFO]: Gave 25 [Hopper] to Kovid63
-[23:17:55] [Server thread/INFO]: [Not Secure] <CYBORG801> mending laga le
-[23:17:56] [Server thread/INFO]: QuerkyWink lost connection: Disconnected
-[23:17:56] [Server thread/INFO]: QuerkyWink left the game
-[23:18:50] [Server thread/INFO]: Unknown item 'minecraft:hoe'
-[23:18:50] [Server thread/INFO]: ...e kovid63 minecraft:hoe 1<--[HERE]
-[23:18:56] [Server thread/INFO]: Gave 1 [Iron Hoe] to Kovid63
-[23:19:09] [Server thread/INFO]: [Not Secure] <CYBORG801> kirito
-[23:19:13] [Server thread/INFO]: [Not Secure] <CYBORG801> armor m
-[23:19:34] [Server thread/INFO]: [Not Secure] <Miyamura__09> haan?
-[23:19:39] [Server thread/INFO]: [Not Secure] <CYBORG801> mending
-[23:19:45] [Server thread/INFO]: [Not Secure] <CYBORG801> lga le
-[23:19:46] [Server thread/INFO]: [Not Secure] <Miyamura__09> oh tere liye ye le
-[23:19:54] [Server thread/INFO]: [Not Secure] <Miyamura__09> uss din li thi
-[23:19:56] [Server thread/INFO]: [Not Secure] <Miyamura__09> de nhi paya tha
-[23:20:00] [Server thread/INFO]: [Not Secure] <CYBORG801> arre tu lga le
-[23:20:03] [Server thread/INFO]: [Not Secure] <CYBORG801> armor m
-[23:20:04] [Server thread/INFO]: [Not Secure] <Miyamura__09> oh k
-[23:20:08] [Server thread/INFO]: [Not Secure] <CYBORG801> mere mai toh sab m h
-[23:20:20] [Server thread/INFO]: [Not Secure] <Miyamura__09> anvil?
-[23:20:29] [Server thread/INFO]: [Not Secure] <CYBORG801> enchantment table ke paas
-[23:20:33] [Server thread/INFO]: [Not Secure] <Miyamura__09> woh kahan hai
-[23:20:34] [Server thread/INFO]: [Not Secure] <Miyamura__09> xD
-[23:20:36] [Server thread/INFO]: [Not Secure] <CYBORG801> katare ke ghar ke bagal m
-[23:21:49] [Server thread/INFO]: Miyamura__09 lost connection: Disconnected
-[23:21:49] [Server thread/INFO]: Miyamura__09 left the game
-[23:21:54] [Server thread/INFO]: Miyamura__09[/152.58.235.66:62932] logged in with entity id 39662 at (-1015.3524383073425, 63.0, -1747.913184665737)
-[23:21:54] [Server thread/INFO]: Miyamura__09 joined the game
-[23:22:08] [Server thread/INFO]: Miyamura__09 lost connection: Disconnected
-[23:22:08] [Server thread/INFO]: Miyamura__09 left the game
-[23:22:08] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[23:22:08] [Server thread/INFO]: Kovid63 left the game
-[23:22:13] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:22:13] [Server thread/INFO]: CYBORG801 left the game
-[23:22:14] [Server thread/INFO]: Kovid63[/127.0.0.1:56808] logged in with entity id 39833 at (-1060.6183469145847, 65.0, -1819.7533567313726)
-[23:22:14] [Server thread/INFO]: Kovid63 joined the game
-[23:22:17] [Server thread/INFO]: CYBORG801[/49.43.40.38:57793] logged in with entity id 40068 at (-1079.300000011921, 67.0, -1825.4959187005309)
-[23:22:17] [Server thread/INFO]: CYBORG801 joined the game
-[23:22:23] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:22:23] [Server thread/INFO]: CYBORG801 left the game
-[23:22:37] [Server thread/INFO]: CYBORG801[/49.43.40.38:57809] logged in with entity id 40130 at (-1063.0821335759322, 67.0, -1823.9033977250076)
-[23:22:37] [Server thread/INFO]: CYBORG801 joined the game
-[23:24:58] [Server thread/INFO]: Miyamura__09[/115.241.201.77:44970] logged in with entity id 40566 at (-1016.0586757313831, 63.0, -1748.0597211128306)
-[23:24:58] [Server thread/INFO]: Miyamura__09 joined the game
-[23:25:28] [Server thread/INFO]: Miyamura__09 lost connection: Disconnected
-[23:25:28] [Server thread/INFO]: Miyamura__09 left the game
-[23:25:28] [Server thread/WARN]: handleDisconnection() called twice
-[23:27:10] [Server thread/INFO]: Miyamura__09[/115.241.201.77:27895] logged in with entity id 41083 at (-1016.0586757313831, 63.0, -1748.0597211128306)
-[23:27:10] [Server thread/INFO]: Miyamura__09 joined the game
-[23:27:16] [Server thread/INFO]: [Not Secure] <Miyamura__09> not my wifi dying
-[23:27:40] [Server thread/INFO]: Gave 1 [Iron Shovel] to Kovid63
-[23:29:26] [Server thread/INFO]: Miyamura__09 lost connection: Timed out
-[23:29:26] [Server thread/INFO]: Miyamura__09 left the game
-[23:33:05] [Server thread/INFO]: Gave 4 [Composter] to Kovid63
-[23:33:12] [Server thread/INFO]: Gave 10 [Torch] to Kovid63
-[23:34:25] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:34:25] [Server thread/INFO]: CYBORG801 left the game
-[23:34:28] [Server thread/INFO]: CYBORG801[/49.43.40.38:58059] logged in with entity id 42995 at (-1028.0066531271982, 64.0, -1819.5399152248262)
-[23:34:28] [Server thread/INFO]: CYBORG801 joined the game
-[23:35:34] [Server thread/INFO]: Gave 1 [Water Bucket] to Kovid63
-[23:36:43] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[23:36:43] [Server thread/INFO]: Kovid63 left the game
-[23:37:13] [Server thread/INFO]: Kovid63[/127.0.0.1:57355] logged in with entity id 43862 at (-1088.3541500166164, 68.36075, -1842.4394190044204)
-[23:37:13] [Server thread/INFO]: Kovid63 joined the game
-[23:37:50] [Server thread/INFO]: Kovid63 was slain by CYBORG801
-[23:45:25] [Server thread/INFO]: CYBORG801 lost connection: Disconnected
-[23:45:25] [Server thread/INFO]: CYBORG801 left the game
-[23:49:03] [Server thread/INFO]: Kovid63 lost connection: Disconnected
-[23:49:03] [Server thread/INFO]: Kovid63 left the game
+[18:03:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:03:52] [ServerMain/INFO]: Loaded 7 recipes
+[18:03:53] [ServerMain/INFO]: Loaded 1179 advancements
+[18:03:53] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[18:03:53] [Server thread/INFO]: Loading properties
+[18:03:53] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:53] [Server thread/INFO]: Generating keypair
+[18:03:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:03:53] [Server thread/INFO]: Using default channel type
+[18:03:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:03:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:03:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:03:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:03:53] [Server thread/INFO]: Preparing level "world"
+[18:03:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:03:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:03:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:03:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:03:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:03:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:03:57] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[18:03:57] [Server thread/INFO]: Time elapsed: 2767 ms
+[18:03:57] [Server thread/INFO]: Done (3.498s)! For help, type "help"
+[18:06:42] [Server thread/INFO]: Kovid63[/127.0.0.1:51127] logged in with entity id 8 at (-1095.004754271358, 68.0, -1832.8548777611825)
+[18:06:42] [Server thread/INFO]: Kovid63 joined the game
+[18:07:25] [Server thread/INFO]: Made Kovid63 a server operator
+[18:07:35] [Server thread/INFO]: [Kovid63: Set own game mode to Creative Mode]
+[18:29:04] [Server thread/INFO]: Villager bxz['Farmer'/2740, l='ServerLevel[world]', x=-1079.45, y=68.00, z=-1819.68] died, message: 'Farmer was slain by Kovid63'
+[18:30:27] [Server thread/INFO]: Villager bxz['Farmer'/2502, l='ServerLevel[world]', x=-1093.92, y=68.00, z=-1835.30] died, message: 'Farmer was slain by Kovid63'
+[18:30:31] [Server thread/INFO]: Villager bxz['Villager'/2926, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:30:39] [Server thread/INFO]: Villager bxz['Villager'/3137, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1833.57] died, message: 'Villager was slain by Kovid63'
+[18:33:42] [Server thread/INFO]: Villager bxz['Villager'/3244, l='ServerLevel[world]', x=-1093.51, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:34:09] [Server thread/INFO]: Villager bxz['Villager'/3887, l='ServerLevel[world]', x=-1101.70, y=68.00, z=-1843.70] died, message: 'Villager was slain by Kovid63'
+[18:36:30] [Server thread/INFO]: Villager bxz['Villager'/3878, l='ServerLevel[world]', x=-1093.30, y=67.94, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:14] [Server thread/INFO]: Villager bxz['Villager'/4250, l='ServerLevel[world]', x=-1094.47, y=67.94, z=-1837.34] died, message: 'Villager was slain by Kovid63'
+[18:37:21] [Server thread/INFO]: Villager bxz['Villager'/4296, l='ServerLevel[world]', x=-1093.77, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:22] [Server thread/INFO]: Villager bxz['Villager'/4284, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:24] [Server thread/INFO]: Villager bxz['Villager'/4303, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:26] [Server thread/INFO]: Villager bxz['Villager'/4274, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:43] [Server thread/INFO]: Villager bxz['Villager'/4297, l='ServerLevel[world]', x=-1093.86, y=67.94, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[18:37:44] [Server thread/INFO]: Villager bxz['Villager'/4302, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.50] died, message: 'Villager was slain by Kovid63'
+[18:40:56] [Server thread/INFO]: Villager bxz['Villager'/4475, l='ServerLevel[world]', x=-1093.30, y=68.00, z=-1835.30] died, message: 'Villager was slain by Kovid63'
+[19:30:44] [Server thread/INFO]: Villager bxz['Farmer'/2922, l='ServerLevel[world]', x=-1094.06, y=68.00, z=-1835.30] died, message: 'Farmer was slain by Kovid63'
+[19:30:59] [Server thread/INFO]: Villager bxz['Farmer'/4868, l='ServerLevel[world]', x=-1084.89, y=67.94, z=-1841.20] died, message: 'Farmer was slain by Kovid63'
+[19:31:06] [Server thread/INFO]: Villager bxz['Farmer'/3189, l='ServerLevel[world]', x=-1091.51, y=67.94, z=-1835.30] died, message: 'Farmer was slain by Kovid63'
+[19:32:14] [Server thread/INFO]: Villager bxz['Villager'/11687, l='ServerLevel[world]', x=-1084.60, y=68.00, z=-1841.41] died, message: 'Villager was slain by Kovid63'
+[19:32:25] [Server thread/INFO]: Villager bxz['Villager'/11675, l='ServerLevel[world]', x=-1072.11, y=67.23, z=-1814.70] died, message: 'Villager was slain by Kovid63'
+[19:38:35] [Server thread/INFO]: Kovid63 lost connection: Disconnected
+[19:38:35] [Server thread/INFO]: Kovid63 left the game

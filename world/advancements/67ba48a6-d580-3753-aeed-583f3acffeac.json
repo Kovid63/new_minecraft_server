@@ -1566,10 +1566,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-04-20 21:00:35 +0530",
+      "minecraft:ghast": "2023-05-01 17:15:43 +0530",
       "minecraft:vindicator": "2023-04-22 03:00:46 +0530",
       "minecraft:spider": "2023-04-22 02:08:48 +0530",
+      "minecraft:phantom": "2023-05-01 16:23:52 +0530",
       "minecraft:zombified_piglin": "2023-04-22 01:05:48 +0530",
       "minecraft:piglin": "2023-04-20 22:51:02 +0530",
+      "minecraft:enderman": "2023-05-01 17:07:44 +0530",
       "minecraft:zombie": "2023-04-20 20:11:36 +0530",
       "minecraft:zombie_villager": "2023-04-22 02:10:17 +0530"
     },
@@ -2746,15 +2749,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2023-04-30 23:44:45 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2023-04-30 23:37:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-04-30 23:44:45 +0530"
     },
     "done": true
   },
@@ -2767,6 +2770,42 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2023-04-30 23:44:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2023-05-01 17:13:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-05-01 16:31:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-05-01 16:21:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-05-01 17:12:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-05-01 17:15:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-05-01 17:12:54 +0530"
     },
     "done": true
   },
